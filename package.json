@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "next": "^14.2.8",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "name": "y",
+  "version": "1.0.0",
+  "description": "create helo world",
+  "main": "y",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "keywords": [
+    "helo"
+  ],
+  "author": "azka kiran",
+  "license": "ISC"
+}
